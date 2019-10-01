@@ -1,0 +1,14 @@
+﻿@model MoviesRental.Models.Customer
+@{
+    ViewBag.Title = Model.Name;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@Model.Name</h2>
+<p>Membership type: @Model.MembershipType.Name</p>
+@if (@Model.Birthday.HasValue)
+{
+    <p>Birthday: @Model.Birthday.Value.ToShortDateString()</p>
+}
+
+

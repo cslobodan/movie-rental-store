@@ -1,0 +1,266 @@
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\MoviesRental.dll.config
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\MoviesRental.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\MoviesRental.pdb
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\roslyn\csc.exe
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\roslyn\csc.exe.config
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\roslyn\csc.rsp
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\roslyn\csi.exe
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\roslyn\csi.exe.config
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\roslyn\csi.rsp
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\roslyn\System.AppContext.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\roslyn\System.Console.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\roslyn\System.IO.Compression.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\roslyn\System.IO.Pipes.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\roslyn\System.Security.Claims.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\roslyn\System.ValueTuple.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\roslyn\System.Xml.XPath.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\roslyn\vbc.exe
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\roslyn\vbc.exe.config
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\roslyn\vbc.rsp
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\roslyn\VBCSCompiler.exe
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\Antlr3.Runtime.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\AutoMapper.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\EntityFramework.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\EntityFramework.SqlServer.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\Microsoft.Owin.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\Microsoft.Owin.Security.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\Newtonsoft.Json.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\Owin.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\System.Net.Http.Formatting.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\System.Web.Helpers.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\System.Web.Http.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\System.Web.Http.Owin.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\System.Web.Http.WebHost.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\System.Web.Mvc.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\System.Web.Optimization.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\System.Web.Razor.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\System.Web.WebPages.Deployment.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\System.Web.WebPages.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\System.Web.WebPages.Razor.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\WebGrease.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\Antlr3.Runtime.pdb
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\AutoMapper.xml
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\EntityFramework.xml
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\EntityFramework.SqlServer.xml
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\Newtonsoft.Json.xml
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\System.Net.Http.Formatting.xml
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\System.Web.Helpers.xml
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\System.Web.Http.xml
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\System.Web.Http.Owin.xml
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\System.Web.Http.WebHost.xml
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\System.Web.Mvc.xml
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\System.Web.Optimization.xml
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\System.Web.Razor.xml
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\System.Web.WebPages.xml
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\System.Web.WebPages.Deployment.xml
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\System.Web.WebPages.Razor.xml
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\Microsoft.Owin.xml
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\Microsoft.Owin.Security.xml
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\obj\Release\MoviesRental.csprojAssemblyReference.cache
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\obj\Release\MoviesRental.Migrations.InitialModel.resources
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\obj\Release\MoviesRental.Migrations.AddIsSubscribedToCustomerTable.resources
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\obj\Release\MoviesRental.Migrations.AddMembershipType.resources
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\obj\Release\MoviesRental.Migrations.PopulateMembershipTypes.resources
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\obj\Release\MoviesRental.Migrations.ApplyAnnotationsToCustomerName.resources
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\obj\Release\MoviesRental.Migrations.AddNameToMembershipType.resources
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\obj\Release\MoviesRental.Migrations.UpdateMembershipTypeNames.resources
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\obj\Release\MoviesRental.Migrations.UpdatePayAsYouGoName.resources
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\obj\Release\MoviesRental.Migrations.AddBirthdayToCustomer.resources
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\obj\Release\MoviesRental.Migrations.AddGenreToMovies.resources
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\obj\Release\MoviesRental.Migrations.PopulateGenre.resources
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\obj\Release\MoviesRental.Migrations.AddStaticFieldsToMembershipTypes.resources
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\obj\Release\MoviesRental.csproj.GenerateResource.cache
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\obj\Release\MoviesRental.csproj.CoreCompileInputs.cache
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\obj\Release\MoviesRental.csproj.CopyComplete
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\obj\Release\MoviesRental.dll
+C:\Users\slobo\source\repos\MoviesRental\MoviesRental\obj\Release\MoviesRental.pdb
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\MoviesRental.dll.config
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\MoviesRental.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\MoviesRental.pdb
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\roslyn\csc.exe
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\roslyn\csc.exe.config
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\roslyn\csc.rsp
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\roslyn\csi.exe
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\roslyn\csi.exe.config
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\roslyn\csi.rsp
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\roslyn\System.AppContext.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\roslyn\System.Console.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\roslyn\System.IO.Compression.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\roslyn\System.IO.Pipes.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\roslyn\System.Security.Claims.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\roslyn\System.ValueTuple.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\roslyn\System.Xml.XPath.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\roslyn\vbc.exe
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\roslyn\vbc.exe.config
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\roslyn\vbc.rsp
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\roslyn\VBCSCompiler.exe
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\Antlr3.Runtime.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\AutoMapper.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\EntityFramework.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\EntityFramework.SqlServer.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\Glimpse.Ado.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\Glimpse.AspNet.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\Glimpse.Core.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\Glimpse.EF6.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\Glimpse.Mvc5.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\Microsoft.Owin.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\Microsoft.Owin.Security.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\Newtonsoft.Json.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\Owin.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\System.Net.Http.Formatting.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\System.Web.Helpers.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\System.Web.Http.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\System.Web.Http.Owin.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\System.Web.Http.WebHost.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\System.Web.Mvc.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\System.Web.Optimization.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\System.Web.Razor.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\System.Web.WebPages.Deployment.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\System.Web.WebPages.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\System.Web.WebPages.Razor.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\WebGrease.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\Antlr3.Runtime.pdb
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\AutoMapper.xml
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\EntityFramework.xml
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\EntityFramework.SqlServer.xml
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\Microsoft.Owin.xml
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\Microsoft.Owin.Security.xml
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\Newtonsoft.Json.xml
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\System.Net.Http.Formatting.xml
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\System.Web.Helpers.xml
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\System.Web.Http.xml
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\System.Web.Http.Owin.xml
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\System.Web.Http.WebHost.xml
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\System.Web.Mvc.xml
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\System.Web.Optimization.xml
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\System.Web.Razor.xml
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\System.Web.WebPages.xml
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\System.Web.WebPages.Deployment.xml
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\System.Web.WebPages.Razor.xml
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\obj\Release\MoviesRental.csprojAssemblyReference.cache
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\obj\Release\MoviesRental.Migrations.InitialModel.resources
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\obj\Release\MoviesRental.Migrations.AddIsSubscribedToCustomerTable.resources
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\obj\Release\MoviesRental.Migrations.AddMembershipType.resources
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\obj\Release\MoviesRental.Migrations.PopulateMembershipTypes.resources
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\obj\Release\MoviesRental.Migrations.ApplyAnnotationsToCustomerName.resources
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\obj\Release\MoviesRental.Migrations.AddNameToMembershipType.resources
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\obj\Release\MoviesRental.Migrations.UpdateMembershipTypeNames.resources
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\obj\Release\MoviesRental.Migrations.UpdatePayAsYouGoName.resources
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\obj\Release\MoviesRental.Migrations.AddBirthdayToCustomer.resources
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\obj\Release\MoviesRental.Migrations.AddGenreToMovies.resources
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\obj\Release\MoviesRental.Migrations.PopulateGenre.resources
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\obj\Release\MoviesRental.Migrations.AddStaticFieldsToMembershipTypes.resources
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\obj\Release\MoviesRental.Migrations.EditStringLengthForCustomerName.resources
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\obj\Release\MoviesRental.Migrations.AddNameToAppUser.resources
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\obj\Release\MoviesRental.Migrations.SeedUsers.resources
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\obj\Release\MoviesRental.csproj.GenerateResource.cache
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\obj\Release\MoviesRental.csproj.CoreCompileInputs.cache
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\obj\Release\MoviesRental.csproj.CopyComplete
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\obj\Release\MoviesRental.dll
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\obj\Release\MoviesRental.pdb
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\obj\Release\MoviesRental.Migrations.AddRentalDomainModel.resources
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\obj\Release\MoviesRental.Migrations.AddNumberAvailableToMovieDomainModel.resources
+C:\Users\slobo\OneDrive\Desktop\Projekti za GitHub\MoviesRental\MoviesRental\obj\Release\MoviesRental.Migrations.UpdateNumberAvailableAsNullable.resources

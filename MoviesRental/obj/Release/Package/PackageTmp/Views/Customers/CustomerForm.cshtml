@@ -1,0 +1,63 @@
+﻿@model MoviesRental.ViewModels.CustomerFormViewModel
+@{
+    ViewBag.Title = "New Customer";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@if (Model.Customer.Id == 0)
+{
+    <h2>New Customer</h2>
+}
+else
+{
+    <h2>Edit Customer</h2>
+}
+
+
+@using (Html.BeginForm("Save", "Customers"))
+{
+    <div class="form-group">
+        @Html.LabelFor(m => m.Customer.Name)
+        @Html.TextBoxFor(m => m.Customer.Name, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Customer.Name)
+    </div>
+
+    <div class="form-group">
+        <label for="MembershipTypeId">Membership Type</label>
+        @Html.DropDownListFor(
+            m => m.Customer.MembershipTypeId,
+            new SelectList(Model.MembershipTypes, "Id", "Name"),
+            "Select membership type",
+            new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Customer.MembershipTypeId)
+    </div>
+
+    <div class="form-group">
+        <label for="Birthday">Date of birth</label>
+        @Html.TextBoxFor(
+            m => m.Customer.Birthday,
+            "{0:dd.MM.yyyy.}",
+            new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Customer.Birthday)
+    </div>
+
+    <div class="checkbox">
+        <label>
+            @Html.CheckBoxFor(m => m.Customer.isSubscribedToNewsletter)
+            Subscribe to newsletter?
+        </label>
+    </div>
+
+    @Html.HiddenFor(m => m.Customer.Id)
+    @Html.AntiForgeryToken()
+
+    <button type="submit" class="btn btn-primary">
+        Save
+    </button>
+
+}
+
+@section scripts
+{
+    @Scripts.Render("~/bundles/jqueryval")
+}
