@@ -4,8 +4,9 @@
     ViewBag.Title = "New Rental Form";
 }
 
+<br />
 <h2>New Rental</h2>
-
+<br />
 <form id="newRental">
     <div class="form-group">
         <label>Customer</label>
@@ -27,6 +28,7 @@
         </div>
     </div>
 
+    <br />
     <button class="btn btn-primary">Submit</button>
 </form>
 @section scripts
@@ -94,7 +96,7 @@
             var validator = $("#newRental").validate({
                 submitHandler: function () {
                     $.ajax({
-                        url: "/api/newRentals",
+                        url: "/api/rentals",
                         method: "post",
                         data: vm
                     })

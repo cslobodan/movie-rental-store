@@ -13,6 +13,7 @@ namespace MoviesRental.App_Start
             Mapper.CreateMap<Movie, MovieDto>();
             Mapper.CreateMap<Genre, GenreDto>();
             Mapper.CreateMap<MembershipType, MembershipTypeDto>();
+            Mapper.CreateMap<Rental, RentalDto>();
 
             //Dto to Domain
             Mapper.CreateMap<CustomerDto, Customer>();

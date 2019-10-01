@@ -1,6 +1,7 @@
 ﻿body {
     padding-top: 50px;
     padding-bottom: 20px;
+    font: Varela Round;
 }
 
 /* Set padding to keep content from hitting the edges */
@@ -48,4 +49,52 @@
 .twitter-typeahead {
     display: block !important;
 }
+
+.navbar-nav li{
+    font-weight: bold;
+}
+
+.navbar-nav li a:hover {
+    color: grey !important;
+}
+
+    .navbar-header .logo {
+        font-family: 'Pacifico', cursive !important;
+        display: inline-block;
+        height: inherit;
+        left: 0;
+        line-height: inherit;
+        margin: 0;
+        padding: 0;
+        margin-top: 10px;
+        margin-right: 15px;
+        color: #e5474b;
+        text-transform: none;
+        font-weight: normal;
+        padding: 0;
+        font-size: 25px;
+    }
+
+    .navbar-header .logo:hover {
+        color: rgba(229, 71, 75, 0.75);
+        /*color: #0d5487; */
+    }
+
+    .navbar-header a {
+        -moz-transition: color 0.2s ease-in-out;
+        -webkit-transition: color 0.2s ease-in-out;
+        -ms-transition: color 0.2s ease-in-out;
+        transition: color 0.2s ease-in-out;
+        display: inline-block;
+        padding: 0 2em;
+        color: #ffffff;
+        text-decoration: none;
+        text-transform: uppercase;
+        font-weight: 700;
+        font-size: .85em;
+    }
+
+    .navbar-header a:hover {
+        color: rgba(255, 255, 255, 0.75);
+    }
 

@@ -4,7 +4,7 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<br/>
+<br/><br />
 <p>
     @Html.ActionLink(
         "NEW CUSTOMER",
@@ -20,6 +20,8 @@
     <tr>
         <th>Customer</th>
         <th>Membership Type</th>
+        <th>Rented</th>
+        <th>Returned</th>
         <th>Delete</th>
     </tr>
     </thead>
@@ -45,6 +47,12 @@
                     },
                     {
                         data: "membershipType.name"
+                    },
+                    {
+                        data: "moviesRented"
+                    },
+                    {
+                        data: "moviesReturned"
                     },
                     {
                         data: "id",

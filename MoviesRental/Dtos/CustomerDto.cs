@@ -19,6 +19,9 @@ namespace MoviesRental.Dtos
 
         public MembershipTypeDto MembershipType { get; set; }
 
+        public int MoviesRented { get; set; }
+
+        public int MoviesReturned { get; set; }
 
     }
 }

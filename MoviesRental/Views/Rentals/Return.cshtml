@@ -1,0 +1,82 @@
+﻿
+@{
+    ViewBag.Title = "Return Movie";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<br /><br />
+<table id="returns" class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>Customer</th>
+            <th>Movie</th>
+            <th>Rented</th>
+            <th>Returned</th>
+            <th>Return</th>
+        </tr>
+    </thead>
+    <tbody>
+    </tbody>
+</table>
+
+@section scripts
+{
+    <script>
+        $(document).ready(function () {
+            var table = $("#returns").DataTable({
+                ajax: {
+                    url: "/api/rentals",
+                    dataSrc: ""
+                },
+                columns: [
+                    {
+                        data: "customerName",
+                    },
+                    {
+                        data: "movieName"
+                    },
+                    {
+                        data: "dateRented",
+                        render: function (data) {
+                            if(data !== null)
+                                return moment(data).format("DD.MM.YYYY. HH:mm");       
+                            return null;
+                        }
+                    },
+                    {
+                        data: "dateReturned",
+                        render: function (data) {
+                            if(data !== null)
+                                return moment(data).format("DD.MM.YYYY. HH:mm");   
+                            return null;
+                        }
+                    },
+                    {
+                        data: "id",
+                        render: function (data, type, row) {
+                            if(row.dateReturned === null)
+                                return "<button class ='btn-link js-return' data-rental-id=" + data + ">Return</button>";
+                            return "Returned";
+                        }
+                    }
+                ]
+            });
+
+            $("#returns").on("click", ".js-return", function() {
+                var button = $(this);
+                bootbox.confirm("Are you sure you want to return this movie?", function (result) {
+                    if (result) {
+                        $.ajax({
+                            url: "/api/rentals/" + button.attr("data-rental-id"),
+                            method: "PUT",
+                            success: function() {
+                                table.ajax.reload();
+                            }
+                        });
+                    }
+                });
+            });
+        });
+    </script>
+}
+

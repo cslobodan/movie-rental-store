@@ -25,5 +25,9 @@ namespace MoviesRental.Models
         [Display(Name = "Membership Type")]
         public byte MembershipTypeId { get; set; }
 
+        public int MoviesRented { get; set; }
+
+        public int MoviesReturned { get; set; }
+
     }
 }
