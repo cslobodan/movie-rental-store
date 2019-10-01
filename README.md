@@ -1,6 +1,11 @@
-# MP4U Application
+# Movies Rental Application
 
-Web application for movie rental store. Application is developed based on Mosh Hamedani Udemy course.
+Web application for movie rental store. Application is developed based on Mosh Hamedani Udemy course, but with some additional functionalities and different look and feel.<br />
+Main features:
+1. Customers - add new customer or search, sort and delete existing ones
+2. Movies - add new movie or search, sort and delete existing ones (not valid for guest users as they have readonly access)
+3. Rental - Customer can rent one or more movies and that is saved in database.
+4. Return - List of all rentals where movie can be returned
 
 ## Screenshots
 <img src="screenshots/Screenshot_1.png"> 
