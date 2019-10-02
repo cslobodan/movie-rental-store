@@ -23,9 +23,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-- .NET Framework [https://dotnet.microsoft.com/download/dotnet-framework/]
-- Microsoft SQL Server Express [https://www.microsoft.com/en-us/sql-server/sql-server-editions-express]
-- Visual Studio IDE [https://visualstudio.microsoft.com/vs/]
+- [.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework/)
+- [Microsoft SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-editions-express)
+- [Visual Studio IDE](https://visualstudio.microsoft.com/vs/)
 
 ### Installing Backend
 
@@ -36,8 +36,8 @@ These instructions will get you a copy of the project up and running on your loc
  
 ## Built With
 
-* .NET Framework [https://dotnet.microsoft.com/download/dotnet-framework/] - The web framework used for exposing APIs
+[.NET Framework 4.7](https://dotnet.microsoft.com/download/dotnet-framework/)
 
 ## Authors
 
-Slobodan Cvetkovic [https://github.com/slobodanc93]
+[Slobodan Cvetkovic](https://github.com/slobodanc93)
